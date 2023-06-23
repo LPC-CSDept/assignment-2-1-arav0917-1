@@ -9,7 +9,7 @@ def main():
 
     print("The total number of students:", total_students)
     print("The number of males and females:", num_males, "and", num_females)
-    print(f"The percentage of males and females: \t {f_perc:.2f}% and {f_perc:.2f}%")
+    print(f"The percentage of males and females: {m_perc:.2f}% and {f_perc:.2f}%")
     """
     ########################################
     # Do not delete the return statement
